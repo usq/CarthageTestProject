@@ -1,2 +1,2 @@
-github "usq/T1" master
-github "usq/T4.3" master
+github "usq/T1" "master"
+github "usq/T4.3" "master"
